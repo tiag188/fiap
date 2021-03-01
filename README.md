@@ -1,2 +1,2 @@
 # FIAP
-Repositório criado para hospedar projetos realizados na faculdade FIAP no curso Sistemas para Internet.
+Sistema para identificar 03 tipos de expressões faciais através da webcam.
